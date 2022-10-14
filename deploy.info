@@ -1,0 +1,10 @@
+npx hardhat run --network mainnet scripts/deploy.ts
+Vesting deployed to: 0x0aF1D0992Cce4efD4666D8b5B86b40EAEEbe481e // 14-10-2022
+
+Deployed from 0xc0Bf891B61e7731176FB9323D26dEEF524cEBd5d
+real owner: 0xe919621cae4bE24eb2cA43E5D077816690D96767
+
+Verification: npx hardhat verify --network mainnet 0x0aF1D0992Cce4efD4666D8b5B86b40EAEEbe481e
+
+Successfully verified contract BotTokenV2 on Etherscan.
+https://bscscan.com/address/0x0aF1D0992Cce4efD4666D8b5B86b40EAEEbe481e#code
