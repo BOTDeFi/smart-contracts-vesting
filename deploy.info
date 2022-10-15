@@ -8,3 +8,7 @@ Verification: npx hardhat verify --network mainnet 0x0aF1D0992Cce4efD4666D8b5B86
 
 Successfully verified contract BotTokenV2 on Etherscan.
 https://bscscan.com/address/0x0aF1D0992Cce4efD4666D8b5B86b40EAEEbe481e#code
+
+------------------- TESTNET -----------------------------------------------
+
+Vesting deployed to: 0x5814f89F700B947E86D100DdfCDbEcd9912F0AD2
